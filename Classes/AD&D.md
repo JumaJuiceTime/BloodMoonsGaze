@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title: AD&D
 layout: default
 parent: Classes
 ---
@@ -322,4 +322,5 @@ black marketers, etc. Only thieves speaking the same language can use thieves’
 goods. Thieves then attract a gang of followers appropriate to their alignment. These men are generally loyal, but not particularly devoted.
 
 Thieves tend to be territorial and jealous of other powerful thieves. If another thief builds a den in the area, the two gangs usually battle, either openly or through subterfuge, until one overcomes the other. Even good thieves are suspicious of each other. While opposing thief’s dens of good alignment won’t resort to violence or cruel sabotage, there will always be a competitive rivalry involved. If a good thief’s den is disbanded, the next closest good-aligned den quickly absorbs it. In contrast, evil thieves seek the destruction of their weakened rivals, so that they may never rise again.
+
 
