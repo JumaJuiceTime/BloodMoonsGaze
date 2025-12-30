@@ -79,7 +79,7 @@ Palatinae gain a +1 Attack bonus when mounted.
 
 Palatinae gain a +2 bonus to Saving Throws against magic and effects that cause fear.
 
-## The Imperial Houses
+## The Noble Houses
 
   - **House Guillefer (Neutral):** Dreamy and aloof. Rulership shared between family members on a rotating basis—currently Lord Thrasidaios.
   - **House Harrowmoor (Lawful):** Steadfast and militant. Under the rulership of Lady Marpessa.
