@@ -15,7 +15,7 @@ Thegns are masters of heavily armoured, mounted combat and, as vassals of nobili
 
 ## Liege
 
-A thegn serves a noble lordm and Eorl or Jarl. The player should roll or choose one of the lords listed under The Nobles.
+A thegn serves a noble lord, an Eorl or Jarl. The player should roll or choose one of the lords listed under The Nobles.
 
 **Disfavour:** An appointment may be revoked if a thegn displeases or dishonours their liege through failure, rebellion, Alignment change, or non-chivalric conduct. In this case, the character becomes a fighter of equivalent Level. It may be possible to regain the liege’s favour (and thus the status of thegn) by performing a special quest.
 
